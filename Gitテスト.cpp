@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello GitHub!\n";
     std::cout << "GC1C_09_タカハシ_ダン\n";
+    std::cout << "2023/10/11\n";
+
 
 }
 
